@@ -122,4 +122,8 @@ public class Campo {
             return "?";
         }
     }
+
+    public boolean isMinado() {
+        return minado;
+    }
 }
