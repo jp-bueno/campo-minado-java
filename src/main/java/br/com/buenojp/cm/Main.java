@@ -1,4 +1,4 @@
-package br.com.buenojp;
+package br.com.buenojp.cm;
 
 public class Main {
     public static void main(String[] args) {
